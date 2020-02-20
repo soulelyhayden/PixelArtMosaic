@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SplitScreenMosaic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SplitScreenMosaic_jar</output-path>
+    <root id="archive" name="SplitScreenMosaic.jar">
+      <element id="module-output" name="SplitScreenMosaic" />
+      <element id="library" level="project" name="core" />
+    </root>
+  </artifact>
+</component>
